@@ -5,6 +5,6 @@ script that uses only native system tools to free up space on C: after major upd
 **This script makes significant changes to the system!**
 - Run only if you understand exactly what it does
 
-## Quick Use 
+## Quick Use powershell with administrator rights
 ```powershell
 irm https://raw.githubusercontent.com/tehnium/tehnocleaner/main/tehnocleaner.ps1 | iex
